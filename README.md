@@ -1,2 +1,2 @@
 # ExerciciosPHPGET
-tive vários problemas com algumas questões.
+Trabalho dedicado ao entendimento da função GET
